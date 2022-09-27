@@ -1,9 +1,8 @@
-## Olá 👋, meu nome é <strong>{Elias}!</strong>
+## Olá 👋, meu nome é Elias!
 
-> Faça uma breve aprensentação sobre você e a sua área.
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+> 💬 Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+📫 elias.demedeiros@hotmail.com
 
 ----
 
@@ -15,6 +14,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
+----
 
 [![ecmedeiros](https://github-readme-stats.vercel.app/api?username=ecmedeiros&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
