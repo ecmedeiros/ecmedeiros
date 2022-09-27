@@ -1,12 +1,20 @@
 ## Olá 👋, meu nome é Elias!
 
-> 💬 Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
+##Sobre mim
+💬 Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
 
-📫 elias.demedeiros@hotmail.com
+
+### 💼 Experiências Profissionais:
+- 👨‍💻 Um ano atuando na área de de T.I como analista de T.I.
+
+
+### 📫 Como entrar em contato comigo:
+elias.demedeiros@hotmail.com
 
 ----
 
-## 🚀 Estou estudando
+## 📚 O que estou estudando:
+- Atualmente estou estudando a parte introdutória de Front End, com linguagens de marcação e estilização.
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
