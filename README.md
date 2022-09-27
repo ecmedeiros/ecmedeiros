@@ -15,7 +15,7 @@ elias.demedeiros@hotmail.com
 ----
 
 ## 📚 O que estou estudando:
-- Atualmente estou estudando Front End, focado em aprender javascript e futuramente Node.js.
+- Atualmente estou estudando Front End, focado em aprender Javascript e futuramente Node.js.
 
 
 
