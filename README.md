@@ -1,7 +1,7 @@
 ## Olá 👋, meu nome é Elias!
 
 ### 💬 Sobre mim
-- 📄 Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
+- 🕹️ Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
 
 
 ### 💼 Experiências Profissionais:
