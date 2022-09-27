@@ -9,7 +9,7 @@
 
 
 ### 📫 Como entrar em contato comigo:
-elias.demedeiros@hotmail.com [Google](https://google.com)
+elias.demedeiros@hotmail.com [Google](https://google.com){:target="_blank"}
 
 ----
 
