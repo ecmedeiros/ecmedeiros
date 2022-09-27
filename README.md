@@ -1,7 +1,7 @@
 ## Olá 👋, meu nome é Elias!
 
-##Sobre mim
-💬 Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
+### 💬 Sobre mim
+- 📄 Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.
 
 
 ### 💼 Experiências Profissionais:
@@ -9,12 +9,12 @@
 
 
 ### 📫 Como entrar em contato comigo:
-elias.demedeiros@hotmail.com
+elias.demedeiros@hotmail.com ![Google](google.com)
 
 ----
 
 ## 📚 O que estou estudando:
-- Atualmente estou estudando a parte introdutória de Front End, com linguagens de marcação e estilização.
+- Atualmente estou estudando Front End, focado em aprender javascript e Node.js.
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -22,8 +22,6 @@ elias.demedeiros@hotmail.com
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
-----
 
 [![ecmedeiros](https://github-readme-stats.vercel.app/api?username=ecmedeiros&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ecmedeiros](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmedeiros&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
