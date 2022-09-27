@@ -5,7 +5,7 @@
 
 
 ### 💼 Experiências Profissionais:
-- 👨‍💻 Um ano atuando na área de de T.I como Jovem Aprendiz sendo analista de T.I.
+- 👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.
 
 ## [Projeto Cafeterias](https://ecmedeiros.github.io/CafeDoVale/)☕
 
