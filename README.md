@@ -7,9 +7,10 @@
 ### 💼 Experiências Profissionais:
 - 👨‍💻 Um ano atuando na área de de T.I como analista de T.I.
 
+## [Projeto Cafeterias](https://ecmedeiros.github.io/CafeDoVale/)
 
 ### 📫 Como entrar em contato comigo:
-elias.demedeiros@hotmail.com <a href="https://google.com" target="_blank">google</a>
+elias.demedeiros@hotmail.com
 
 ----
 
