@@ -7,9 +7,10 @@
 ### 💼 Experiências Profissionais:
 - 👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.
 
+### [Projetos:]
 https://ecmedeiros.github.io/CafeDoVale/☕
 https://ecmedeiros.github.io/exibicao-de-artes/🎨
-## [Projetos:]
+
 
 ### 📫 Como entrar em contato comigo:
 elias.demedeiros@hotmail.com
