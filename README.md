@@ -9,8 +9,8 @@
 
 ### Projetos:
 
-##[Cafeterias do Vale]☕https://ecmedeiros.github.io/CafeDoVale/
-
+## [Projeto Cafeterias](https://ecmedeiros.github.io/CafeDoVale/)☕
+## [Projeto Exposição de artes](https://ecmedeiros.github.io/exibicao-de-artes/)🎨
 
 ### 📫 Como entrar em contato comigo:
 elias.demedeiros@hotmail.com
