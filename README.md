@@ -8,7 +8,9 @@
 - 👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.
 
 ### Projetos:
-https://ecmedeiros.github.io/CafeDoVale/☕
+
+##[Cafeterias do Vale]☕
+https://ecmedeiros.github.io/CafeDoVale/
 
 https://ecmedeiros.github.io/exibicao-de-artes/🎨
 
