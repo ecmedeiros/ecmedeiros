@@ -9,10 +9,7 @@
 
 ### Projetos:
 
-##[Cafeterias do Vale]☕
-https://ecmedeiros.github.io/CafeDoVale/
-
-https://ecmedeiros.github.io/exibicao-de-artes/🎨
+##[Cafeterias do Vale]☕https://ecmedeiros.github.io/CafeDoVale/
 
 
 ### 📫 Como entrar em contato comigo:
