@@ -10,7 +10,7 @@
 ### Projetos:
 
 ## [Projeto Cafeterias](https://ecmedeiros.github.io/CafeDoVale/)☕
-## [Projeto Página de login e registro](https://ecmedeiros.github.io/ExactTime)⌚
+## [Projeto ExactTime](https://ecmedeiros.github.io/ExactTime)⌚
 ## [Projeto Exposição de artes](https://ecmedeiros.github.io/exibicao-de-artes/)🎨
 ## [Projeto Página de login e registro](https://ecmedeiros.github.io/login_page/)👨‍💻
 
