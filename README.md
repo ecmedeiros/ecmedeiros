@@ -9,6 +9,7 @@
 <div align="center">
   <h2 >•|💬 Sobre Mim 💬|•</h2>
   <h3>•🕹️ Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.</h3>
+  <hr></hr>
   <h2 >•|💼 Experiências Profissionais 💼|•</h2>
   <h3>👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.</h3>
   <p><a href="https://ecmedeiros.github.io/CafeDoVale/" target="_blank">Projeto Cafeterias☕</a></p>
