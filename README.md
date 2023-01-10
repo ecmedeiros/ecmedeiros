@@ -3,8 +3,7 @@
 
 <!-- Slide Nome -->
 
-[![Nome](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome-Nome+é+Elias;)](https://git.io/typing-svg)
-Olá 👋, meu nome é Elias!
+[![Nome](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Elias;)](https://git.io/typing-svg)
 <!-- Sobre mim  --> 
 
 <div align="center">
@@ -12,17 +11,17 @@ Olá 👋, meu nome é Elias!
   <h3>•🕹️ Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.</h3>
   <h2 >•|💼 Experiências Profissionais 💼|•</h2>
   <h3>👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.</h3>
-  <p><a href="https://portfolio0002.netlify.app/" target="_blank">Projeto Cafeterias☕</a></p>
-  <p><a href="https://lenovo3i.netlify.app/" target="_blank">Projeto ExactTime⌚</a></p>
-  <p><a href="https://insta01.netlify.app/" target="_blank">Projeto Exposição de artes🎨</a></p>
-  <p><a href="https://brunocarus.github.io/Conversor-Moedas/" target="_blank">Projeto Página de login e registro👨‍💻</a></p> 
+  <p><a href="https://ecmedeiros.github.io/CafeDoVale/" target="_blank">Projeto Cafeterias☕</a></p>
+  <p><a href="https://ecmedeiros.github.io/ExactTime" target="_blank">Projeto ExactTime⌚</a></p>
+  <p><a href="https://ecmedeiros.github.io/exibicao-de-artes/" target="_blank">Projeto Exposição de artes🎨</a></p>
+  <p><a href="https://ecmedeiros.github.io/login_page/" target="_blank">Projeto Página de login e registro👨‍💻</a></p> 
 </div>  
 
 
 <!--  Contato  -->
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/BrunoCarus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ecmedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--  tecnologias  -->
