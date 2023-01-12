@@ -12,10 +12,11 @@
   <hr></hr>
   <h2 >•|💼 Experiências Profissionais 💼|•</h2>
   <h3>👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.</h3>
-  <p><a href="https://ecmedeiros.github.io/CafeDoVale/" target="_blank">Projeto Cafeterias☕</a></p>
-  <p><a href="https://ecmedeiros.github.io/ExactTime" target="_blank">Projeto ExactTime⌚</a></p>
-  <p><a href="https://ecmedeiros.github.io/exibicao-de-artes/" target="_blank">Projeto Exposição de artes🎨</a></p>
-  <p><a href="https://ecmedeiros.github.io/login_page/" target="_blank">Projeto Página de login e registro👨‍💻</a></p> 
+  <p><a href="https://ecmedeiros.github.io/CafeDoVale/" target="_blank">Cafeterias☕</a></p>
+  <p><a href="https://ecmedeiros.github.io/ExactTime" target="_blank">ExactTime⌚</a></p>
+  <p><a href="https://ecmedeiros.github.io/exibicao-de-artes/" target="_blank">Exposição de artes🎨</a></p>
+  <p><a href="https://ecmedeiros.github.io/login_page/" target="_blank">Página de login e registro👨‍💻</a></p>
+  <p><a href="https://ecmedeiros.github.io/clone-netflix/" target="_blank">Clone Netflix👨‍💻</a></p>
 </div>  
 
 
