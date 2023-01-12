@@ -10,9 +10,6 @@
   <h2 >•|💬 Sobre Mim 💬|•</h2>
   <h3>•🕹️ Estudo programação desde 2018, comecei como GameDeveloper e migrei para o Front-End.</h3>
   <hr></hr>
-  <h2 >•|💼 Experiências Profissionais 💼|•</h2>
-  <h3>👨‍💻 Um ano atuando como Jovem Aprendiz sendo analista de T.I.</h3>
-  <hr></hr>
   <h2>⚡Meus projetos⚡</h2>
   <p><a href="https://ecmedeiros.github.io/CafeDoVale/" target="_blank">Cafeterias☕</a></p>
   <p><a href="https://ecmedeiros.github.io/ExactTime" target="_blank">ExactTime⌚</a></p>
