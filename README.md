@@ -48,8 +48,8 @@
 
 <div align="center">  
 <h2>•|💻 Status Code 💻|•</h2> 
-  <img width="45%" height="195px" src="https://github-readme-stats.sigma-five.vercel.app/api?username=ecmedeiros&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=ffff&bg_color=0d1117" alt="Elias stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=ecmedeiros&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffff&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.sigma.five.vercel.app/api?username=ecmedeiros&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=ffff&bg_color=0d1117" alt="Elias stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.sigma.five.vercel.app/api/top-langs/?username=ecmedeiros&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffff&bg_color=0d1117" />
 </div>
 
 <!-- Gif Ondas -->
