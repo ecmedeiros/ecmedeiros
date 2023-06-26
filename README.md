@@ -9,11 +9,8 @@
 <div align="center">
   <h2 >•|💬 Sobre Mim 💬|•</h2>
   <h3>•Estudando desenvolvimento web desde 2020</h3>
-  <h2>•|⚡Meus projetos⚡|•</h2>
-  <p><a href="https://ecmedeiros.github.io/CafeDoVale/" target="_blank">Cafeterias☕</a></p>
+  <h2>•|⚡Melhores projetos⚡|•</h2>
   <p><a href="https://ecmedeiros.github.io/ExactTime" target="_blank">ExactTime⌚</a></p>
-  <p><a href="https://ecmedeiros.github.io/exibicao-de-artes/" target="_blank">Exposição de artes🎨</a></p>
-  <p><a href="https://ecmedeiros.github.io/login_page/" target="_blank">Página de login e registro👨‍💻</a></p>
   <p><a href="https://ecmedeiros.github.io/clone-netflix/" target="_blank">Clone Netflix👨‍💻</a></p>
 </div>  
 
@@ -32,6 +29,7 @@
   <img align="center" alt="Elias-CSS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Elias" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elias" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Elias" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/bootstrap-original-wordmark.svg">
 </div>
 
 
