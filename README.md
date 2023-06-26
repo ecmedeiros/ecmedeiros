@@ -27,7 +27,8 @@
   <h3>•|📚 O que estou estudando 📚|•</h3> 
   <img align="center" alt="Elias-HTML" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Elias-CSS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <a href="[https://www.chartjs.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank"> <img src="https://www.javascript.org/media/logo-title.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain-wordmark.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.chartjs.org" target="_blank"> 
     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.chartjs.org" target="_blank"> 
   
