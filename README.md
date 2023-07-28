@@ -10,8 +10,8 @@
   <h2 >•|💬 Sobre Mim 💬|•</h2>
   <h3>•Estudando desenvolvimento web desde 2020</h3>
   <h2>•|⚡Melhores projetos⚡|•</h2>
+  <p><a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard</a></p>
   <p><a href="https://ecmedeiros.github.io/ExactTime" target="_blank">ExactTime⌚</a></p>
-  <p><a href="https://ecmedeiros.github.io/clone-netflix/" target="_blank">Clone Netflix👨‍💻</a></p>
 </div>  
 
 
