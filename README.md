@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=header" />
 <!-- Gif Ondas -->
-<!-- Slide Nome --> [![Nome](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Elias;)](https://git.io/typing-svg)
+[![Nome](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Elias;)](https://git.io/typing-svg)
 <!-- Sobre mim  -->
 <div align="center">
   <h2>•|💬 Sobre Mim 💬|•</h2>
