@@ -19,12 +19,6 @@
   </h2>
   <p>Landing page de um ecommerce de relógios feita com bootstrap e responsiva com dispostivos móveis aplicando o conceito de mobile first.</p>
 </div>
-<!--  Contato  -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/eliascmedeiros/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
 <!--  tecnologias  -->
 <div align="center">
   <h3>•|📚 Ferramentas e linguagens 📚|•</h3>
