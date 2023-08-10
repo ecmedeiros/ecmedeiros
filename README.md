@@ -9,7 +9,7 @@
   <h2 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard</a>
   </h2>
-  <p style="width: 50%;">Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção</p>
+  <p width: 50%;>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção</p>
   <h2 style="font-size: 20px">
     <a href="">Status-order-sync</a>
   </h2>
