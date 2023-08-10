@@ -2,7 +2,7 @@
 <!-- Gif Ondas -->
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Elias" alt="Typing SVG" /></a></h1>
 <!-- Sobre mim  -->
-<div align="center">
+<div align="center" width="50%">
   <h2>•|💬 Sobre Mim 💬|•</h2>
   <h3>•Estudando desenvolvimento web desde 2020</h3>
   <h2>•|⚡Melhores projetos⚡|•</h2>
