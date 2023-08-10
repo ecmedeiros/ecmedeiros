@@ -11,7 +11,7 @@
   </h2>
   <div width="45%"><p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção</p></div>
   <h2 style="font-size: 20px">
-    <a href="">Status-order-sync</a>
+    <a href="https://github.com/ecmedeiros/status-order-sync">Status-order-sync</a>
   </h2>
   <p>Automação de processamento de pedidos em e-commerce via tecnologias inteligentes e integrações de APIs</p>
   <h2 style="font-size: 20px">
