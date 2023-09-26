@@ -13,7 +13,7 @@
   <h2 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/status-order-sync">Status-order-sync</a>
   </h2>
-  <p>Automação de processamento de pedidos em e-commerce via tecnologias inteligentes e integrações de APIs</p>
+  <p>Automação de processamento de pedidos em e-commerce via integrações de APIs Rest</p>
   <h2 style="font-size: 20px">
     <a href="https://ecmedeiros.github.io/ExactTime" target="_blank">ExactTime⌚</a>
   </h2>
