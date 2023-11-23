@@ -15,7 +15,7 @@
   </h2>
   <p>Automação de processamento de pedidos em e-commerce via integrações de APIs REST.</p>
   <h2 style="font-size: 20px">
-    <a href="https://ecmedeiros.github.io/ExactTime" target="_blank">ExactTime⌚</a>
+    <a href="https://github.com/ecmedeiros/quality-control-system/tree/master#tela-de-revis%C3%A3o" target="_blank">Quality Control System🪲</a>
   </h2>
   <p>Landing page de um ecommerce de relógios feita com bootstrap e responsiva com dispostivos móveis aplicando o conceito de mobile first.</p>
 </div>
