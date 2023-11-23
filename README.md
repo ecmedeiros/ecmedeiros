@@ -7,11 +7,11 @@
   <h3>•Estudando desenvolvimento web desde 2020</h3>
   <h2>•|⚡Melhores projetos⚡|•</h2>
   <h2 style="font-size: 20px">
-    <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard</a>
+    <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard📊</a>
   </h2>
   <div width="45%"><p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção em tempo real.</p></div>
   <h2 style="font-size: 20px">
-    <a href="https://github.com/ecmedeiros/status-order-sync">Status-order-sync</a>
+    <a href="https://github.com/ecmedeiros/status-order-sync">Status-order-sync📡</a>
   </h2>
   <p>Automação de processamento de pedidos em e-commerce via integrações de APIs REST.</p>
   <h2 style="font-size: 20px">
