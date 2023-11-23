@@ -17,7 +17,7 @@
   <h2 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/quality-control-system/tree/master#tela-de-revis%C3%A3o" target="_blank">Quality Control System🪲</a>
   </h2>
-  <p>Landing page de um ecommerce de relógios feita com bootstrap e responsiva com dispostivos móveis aplicando o conceito de mobile first.</p>
+  <p>Solução para controle de qualidade para revisão de cabedais. Examine, registre modelos e defeitos com eficiência.</p>
 </div>
 <!--  tecnologias  -->
 <div align="center">
