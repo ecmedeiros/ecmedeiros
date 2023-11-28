@@ -49,7 +49,6 @@
 <div align="center">
   <h2>•|💻 Status Code 💻|•</h2>
   <img width="45%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ecmedeiros&theme=react&line_height=40&hide=css" alt="Elias stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ecmedeiros" />
 </div>
 <!-- Gif Ondas -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer" />
