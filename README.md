@@ -16,7 +16,7 @@
   <li>Flutter</li>
   
   <h2>•| Melhores projetos |•</h2>
-  <p style="font-size: 20px">
+  <p style="font-size: 25px">
     <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard📊</a>
   </p>
   <div width="45%"><p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção em tempo real.</p></div>
