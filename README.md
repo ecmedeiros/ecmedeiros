@@ -1,25 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=header" />
 <!-- Gif Ondas -->
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Elias" alt="Typing SVG" /></a></h1>
-
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Elias" alt="Typing SVG" />
+  </a>
+</h1>
 <div align="center" width="50%">
-
- <li>🖥️ Trabalhando na IM MICROSALES</li>
- <li> 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - UNINTER</li>
+  <li>🖥️ Trabalhando na IM MICROSALES</li>
+  <li> 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - UNINTER</li>
   <h2>•| Trabalhando atualmente com |•</h2>
-  
   <li>.NET & .NET Framework</li>
   <li>Angular</li>
   <li>Typescript</li>
   <li>Bootstrap</li>
   <li>Flutter</li>
-  
   <h2>•| Melhores projetos |•</h2>
-  <p style="font-size: 30px">
+  <h2>
     <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard📊</a>
-  </p>
-  <div width="45%"><p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção em tempo real.</p></div>
+  </h2>
+  <div width="45%">
+    <p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção em tempo real.</p>
+  </div>
   <h2 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/status-order-sync">Status-order-sync📡</a>
   </h2>
@@ -48,14 +49,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  
 </div>
 <!-- Graficos Programação... -->
 <div align="center">
