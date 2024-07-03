@@ -21,13 +21,13 @@
   <div width="45%">
     <p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção em tempo real.</p>
   </div>
-  <h2 style="font-size: 20px">
+  <h3 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/status-order-sync">Status-order-sync📡</a>
-  </h2>
+  </h3>
   <p>Automação de processamento de pedidos em e-commerce via integrações de APIs REST.</p>
-  <h2 style="font-size: 20px">
+  <h3 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/quality-control-system/tree/master#tela-de-revis%C3%A3o" target="_blank">Quality Control System🪲</a>
-  </h2>
+  </h3>
   <p>Solução para controle de qualidade para revisão de calçados. Examine, registre modelos e defeitos com eficiência.</p>
 </div>
 <!--  tecnologias  -->
