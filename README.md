@@ -15,9 +15,9 @@
   <li>Bootstrap</li>
   <li>Flutter</li>
   <h2>•| Melhores projetos |•</h2>
-  <h2>
+  <h3>
     <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard📊</a>
-  </h2>
+  </h3>
   <div width="45%">
     <p>Painel de monitoramento de produção que fornece visualização de dados e acompanhamento métricas de produção em tempo real.</p>
   </div>
