@@ -2,8 +2,20 @@
 <!-- Gif Ondas -->
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Elias" alt="Typing SVG" /></a></h1>
 
+
 <div align="center" width="50%">
-  <h2>•|⚡Melhores projetos⚡|•</h2>
+
+ <li>🖥️ Trabalhando na IM MICROSALES</li>
+ <li> 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - UNINTER</li>
+  <h2>•| Trabalhando atualmente com |•</h2>
+  
+  <li>.NET & .NET Framework</li>
+  <li>Angular</li>
+  <li>Typescript</li>
+  <li>Bootstrap</li>
+  <li>Flutter</li>
+  
+  <h2>•| Melhores projetos |•</h2>
   <h2 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/Production-Dashboard/">Production Dashboard📊</a>
   </h2>
@@ -15,7 +27,7 @@
   <h2 style="font-size: 20px">
     <a href="https://github.com/ecmedeiros/quality-control-system/tree/master#tela-de-revis%C3%A3o" target="_blank">Quality Control System🪲</a>
   </h2>
-  <p>Solução para controle de qualidade para revisão de cabedais. Examine, registre modelos e defeitos com eficiência.</p>
+  <p>Solução para controle de qualidade para revisão de calçados. Examine, registre modelos e defeitos com eficiência.</p>
 </div>
 <!--  tecnologias  -->
 <div align="center">
