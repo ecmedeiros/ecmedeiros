@@ -8,6 +8,7 @@
 <div align="center" width="50%">
   <li>🖥️ Trabalhando na IM MICROSALES</li>
   <li> 📖 Cursando Análise e Desenvolvimento de Sistemas (2026/2) - UNINTER</li>
+  <a href="https://ecmedeiros.github.io/Portfolio/"></a>
   <h2>•| Trabalhando atualmente com |•</h2>
   <li>.NET & .NET Framework</li>
   <li>Angular</li>
